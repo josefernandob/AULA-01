@@ -37,5 +37,11 @@
 
   O Fork é nada mais nada menos que uma cópia do repositório, onde o usuário pode alterar, mas sem afetar nada do repositório original.
 
-* 
-  
+* Issue 
+
+  Issue é uma tabela adicional registrada no repositório, onde usuários podem utilizar para informar referente a erros e bugs no projeto do Deselvolver. Ela é bastante útil para ajudar na melhoria do trabalho.
+
+
+*ADICIONAIS
+  Perfil - Gerador de Markdown: https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+  Guia Markdown Github: https://github.com/mende1/guia-definitivo-de-markdown 
